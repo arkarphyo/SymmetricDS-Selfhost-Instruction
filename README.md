@@ -6,7 +6,7 @@ To install SymmetricDS on Ubuntu, you can follow these steps. This guide assumes
 SymmetricDS requires Java 8 or higher. You can install OpenJDK 11, which is commonly used for running SymmetricDS:
 
 sudo apt update
-sudo apt install openjdk-11-jdk
+sudo apt install openjdk-17-jdk
 
 Verify the installation by checking the Java version:
 
