@@ -69,3 +69,6 @@ http://localhost:31415
 Login using the default credentials (admin/admin) or the credentials you've configured.
 
 That’s it! Your SymmetricDS instance should now be running and ready to manage database replication. Would you like more details on configuring replication for specific databases?
+
+#Additional Option For JAVA Version Change Command
+    sudo update-alternatives --config java
